@@ -11,14 +11,15 @@ An example of a simple url shortener made with Express.js
 
 ## Installation
 
-```
-    git clone https://github.com/ed1ndev/Url-Shortener.git
-    cd Url-Shortener
+> ```sh
+>  $ git clone https://github.com/ed1ndev/Url-Shortener.git
+>  $ cd Url-Shortener
+> ```
 
-    npm install
-
-    npm run start
-```
+> ```sh
+>  $ npm install
+>  $ npm run start
+> ```
 
 By creating .env file you can set custom port:
 
